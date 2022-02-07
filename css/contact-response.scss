@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1145px){
+    .contact-content-container{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .contact-left-container{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 4%;
+    }
+
+    .contact-left-description{
+        text-align: center;
+    }
+
+    .contact-form{
+        width: 76%;
+    }
+
+    .contact-right-container{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        margin-top:2%;
+    }
+
+    .contact-right-address{
+        width: 60%;
+    }
+
+    .contact-right-mail{
+        width: 50%;
+    }
+}
